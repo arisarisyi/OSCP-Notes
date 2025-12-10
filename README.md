@@ -32,6 +32,7 @@ Berdasarkan syllabus ini, telah dibuat file-file catatan markdown terpisah:
 - [03_05_Data_Exfiltration.md](03_05_Data_Exfiltration.md) - Data Exfiltration
 
 ### 📂 Reference & Resources
+- [97_OSINT_Web_Resources.md](97_OSINT_Web_Resources.md) - OSINT Websites & Online Tools
 - [98_Tools_Reference.md](98_Tools_Reference.md) - Complete Tools List & Documentation
 - [99_Seclists_Reference.md](99_Seclists_Reference.md) - Wordlists & Brute Force Guide
 
