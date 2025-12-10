@@ -31,6 +31,9 @@ Berdasarkan syllabus ini, telah dibuat file-file catatan markdown terpisah:
 - [03_04_Lateral_Movement.md](03_04_Lateral_Movement.md) - Lateral Movement
 - [03_05_Data_Exfiltration.md](03_05_Data_Exfiltration.md) - Data Exfiltration
 
+### 📂 Reference & Resources
+- [99_Seclists_Reference.md](99_Seclists_Reference.md) - Wordlists & Brute Force Guide
+
 ---
 
 ## Modul Pembelajaran & Learning Objectives
